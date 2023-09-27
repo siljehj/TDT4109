@@ -1,2 +1,4 @@
 # TDT4109
-ITGK
+IT Grunnkurs
+
+Øvinger i faget TDT4109 - IT Grunnkurs.
